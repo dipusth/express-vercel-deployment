@@ -1,11 +1,18 @@
-// vercel.json
 {
   "version": 2,
   "builds": [
-    { "src": "server.js", "use": "@vercel/node" }
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    }
   ],
   "routes": [
-    { "src": "/api/products", "dest": "server.js" }
+    {
+      "src": "/api/products",
+      "dest": "server.js"
+    }
   ],
-  "includeFiles": ["products.json"]
+  "includeFiles": [
+    "products.json"
+  ]
 }
