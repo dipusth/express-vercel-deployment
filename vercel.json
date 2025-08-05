@@ -11,8 +11,5 @@
       "src": "/api/products",
       "dest": "server.js"
     }
-  ],
-  "includeFiles": [
-    "products.json"
   ]
 }
