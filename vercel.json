@@ -7,5 +7,5 @@
   "routes": [
     { "src": "/api/products", "dest": "server.js" }
   ],
-  "includeFiles": ["product.json"]
+  "includeFiles": ["products.json"]
 }
