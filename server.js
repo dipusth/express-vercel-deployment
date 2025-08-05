@@ -7,6 +7,11 @@ const port = process.env.PORT || 8080;
 // Middleware
 app.use(express.json());
 
+// Home route - Add this handler
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
+
 // Working code ibnitially
 // app.get("/api/products", (req, res) => {
 //   res.json([
