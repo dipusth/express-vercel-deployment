@@ -1,0 +1,225 @@
+[
+  {
+    "id": "3",
+    "title": "Gift item",
+    "price": "5000",
+    "description": "hjhjhj",
+    "category": "Jewelery",
+    "image": "http://localhost:3000/uploads/1754291342149.avif",
+    "messages": "gift item updasted"
+  },
+  {
+    "id": "8",
+    "title": "last added product",
+    "price": "600",
+    "description": "dfdfdf",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "messages": "updating",
+    "existingImage": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": "13",
+    "title": "product 13",
+    "price": "800",
+    "description": "ghgfhfg",
+    "category": "Women's Clothing",
+    "image": "http://localhost:3000/uploads/1754221038649.png",
+    "messages": "women clothing 13 updating"
+  },
+  {
+    "id": "15",
+    "title": "newproduct 123",
+    "price": "600",
+    "description": "fggfdg",
+    "category": "Men's Clothing",
+    "image": "http://localhost:3000/uploads/1754309775516.webp",
+    "messages": "undefined updates"
+  },
+  {
+    "id": "17",
+    "title": "vercel app",
+    "price": "10",
+    "description": "dfdfdf",
+    "category": "Men's Clothing",
+    "image": "http://localhost:3000/uploads/1754309879021.jpg",
+    "messages": "fsdgjgjpfg",
+    "existingImage": "http://localhost:3000/uploads/1754309879021.jpg"
+  },
+  {
+    "id": "19",
+    "title": "cvcv 19",
+    "price": "5000",
+    "category": "Jewelery",
+    "descriptions": "cvcv",
+    "image": "http://localhost:3000/uploads/1754291273866.jpg",
+    "messages": "cvcv 19 updated"
+  },
+  {
+    "id": "20",
+    "title": "newp",
+    "price": "109.95",
+    "category": "Men's Clothing",
+    "descriptions": "new descrop[tiom",
+    "image": "http://localhost:3000/uploads/44c1c3ea7a98f03175143323816a7b9e"
+  },
+  {
+    "id": "21",
+    "title": "user123",
+    "price": "1500",
+    "category": "Men's Clothing",
+    "descriptions": "new des",
+    "image": "http://localhost:3000/uploads/05c5f1145c0a1537b638a9f711f60fb0",
+    "messages": "updating messages",
+    "existingImage": "http://localhost:3000/uploads/05c5f1145c0a1537b638a9f711f60fb0"
+  },
+  {
+    "id": "22",
+    "title": "gdfg",
+    "price": "50",
+    "category": "Men's Clothing",
+    "description": "retreter",
+    "image": "http://localhost:3000/uploads/326aa6a0ac13dc7fde1cdd9b8129ddfc"
+  },
+  {
+    "id": "23",
+    "title": "prtofile",
+    "price": "60000",
+    "category": "Men's Clothing",
+    "description": "pp",
+    "image": "http://localhost:3000/uploads/f3ef39601df4cc9cc5d1b3aa02306d48",
+    "messages": "profile pic",
+    "existingImage": "http://localhost:3000/uploads/f3ef39601df4cc9cc5d1b3aa02306d48"
+  },
+  {
+    "id": "25",
+    "title": "Patel Jewellery 25",
+    "price": "2660",
+    "category": "Jewelery",
+    "messages": "By online the best ornaments",
+    "image": "http://localhost:3000/uploads/1754274648426.jpg"
+  },
+  {
+    "id": "29",
+    "title": "new prof",
+    "price": "500",
+    "category": "Men's Clothing",
+    "messages": "triswer updating now",
+    "image": "http://localhost:3000/uploads/1754293644604.jpg",
+    "existingImage": "http://localhost:3000/uploads/1754050344634.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Gift Items",
+    "price": "4000",
+    "category": "Jewelery",
+    "messages": "new gift items",
+    "image": "http://localhost:3000/uploads/1754207943091.png",
+    "existingImage": "http://localhost:3000/uploads/1754207943091.png"
+  },
+  {
+    "id": "31",
+    "title": "Anola Women's African Pink Dress",
+    "price": "1000",
+    "category": "Women's Clothing",
+    "messages": "Indulge in the romance and charm of our Anola African Print Dress. Anola, meaning 'wealthy family' in Yoruba, will make you feel sophisticated and elegant on any occasion.  With fashion forward details (ruffles and puff-sleeves), this dress will make you feel enchantingly beautiful. Pair with your favorite heels and you're sure to exude timeless allure. ",
+    "image": "http://localhost:3000/uploads/1754219872962.webp",
+    "existingImage": "http://localhost:3000/uploads/1754219872962.webp"
+  },
+  {
+    "title": "fgdg",
+    "price": "60",
+    "category": "Men's Clothing",
+    "messages": "gfdgfg",
+    "id": "16",
+    "image": "http://localhost:3000/uploads/1754293533514.avif"
+  },
+  {
+    "title": "truyuytutyu",
+    "price": "109.95",
+    "category": "Men's Clothing",
+    "messages": "ghghgh",
+    "id": "17",
+    "image": "http://localhost:3000/uploads/1754293579891.jpg"
+  },
+  {
+    "title": "vercel app",
+    "price": "6000",
+    "category": "Men's Clothing",
+    "messages": "fsdgjgjpfg",
+    "id": "17",
+    "image": "http://localhost:3000/uploads/1754309879021.jpg"
+  },
+  {
+    "title": "gfhfg",
+    "price": "60",
+    "category": "Men's Clothing",
+    "messages": "gfhfghfg",
+    "id": "18",
+    "image": "http://localhost:3000/uploads/1754391212215.jpg"
+  },
+  {
+    "title": "new iphone  post",
+    "price": "600",
+    "category": "Men's Clothing",
+    "messages": "new post for iphone",
+    "id": "19",
+    "image": "http://localhost:3000/uploads/1754391412900.webp"
+  },
+  {
+    "title": "check if editing",
+    "price": "50",
+    "category": "Men's Clothing",
+    "messages": "fdgfgfdgfdg",
+    "id": "20",
+    "image": "http://localhost:3000/uploads/1754391567372.png"
+  },
+  {
+    "title": "set new data",
+    "price": "60",
+    "category": "Women's Clothing",
+    "messages": "dfgdfdfdsfd",
+    "id": "21",
+    "image": "http://localhost:3000/uploads/1754391901621.png"
+  },
+  {
+    "title": "setting last iotem",
+    "price": "5000",
+    "category": "Women's Clothing",
+    "messages": "sdfdfd",
+    "id": "22",
+    "image": "http://localhost:3000/uploads/1754392027214.png"
+  },
+  {
+    "title": "checkserver",
+    "price": "109.95",
+    "category": "Jewelery",
+    "messages": "checking",
+    "id": "23",
+    "image": "http://localhost:3000/uploads/1754392151179.png"
+  },
+  {
+    "title": "html5 updated to JS",
+    "price": "6000000",
+    "category": "Jewelery",
+    "messages": "Chnaging html5 to ks",
+    "id": "32",
+    "image": "http://localhost:3000/uploads/1754392309556.png"
+  },
+  {
+    "title": "ghgfhgfh",
+    "price": "109.95",
+    "category": "Men's Clothing",
+    "messages": "gfhfghfgh",
+    "id": "33",
+    "image": "http://localhost:3000/uploads/1754397184480.png"
+  },
+  {
+    "title": "fghgfh",
+    "price": "109.95",
+    "category": "Men's Clothing",
+    "messages": "gfhgfhfgh",
+    "id": "34",
+    "image": "http://localhost:3000/uploads/1754397170589.png"
+  }
+]
